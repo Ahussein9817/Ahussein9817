@@ -62,6 +62,7 @@ Machine learning for classification & anomaly detection
 |--------|-------------|
 | [Financial Document RAG](https://github.com/Ahussein9817/financial-document-rag) | Q&A system over financial documents using LangChain, ChromaDB & OpenAI |
 | [Energy Market Forecasting](https://github.com/Ahussein9817/energy-market-forecasting) | Electricity price forecasting with ensemble models & exogenous shock analysis |
+| [Movie Recommender](https://github.com/Ahussein9817/movie-recommender) | Content-based movie recommendation app — [Live Demo](https://movie-recommender-afgzzdfwxhk4bg67ylmefd.streamlit.app) |
 | [Educational Tone Analysis](https://github.com/Ahussein9817/educational-tone-analysis) | Fine-tuned BERT classifier for detecting tone in instructor feedback |
 | [Credit Card Fraud Detection](https://github.com/Ahussein9817/CreditCardFraudDetection) | Fraud detection using Decision Trees & Random Forest |
 
